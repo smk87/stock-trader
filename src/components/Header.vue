@@ -1,5 +1,5 @@
 <template>
-  <ul class="nav nav-pills mt-5">
+  <ul class="nav nav-pills">
     <li class="nav-item">
       <router-link activeClass="active" to="/">Stock Trader</router-link>
     </li>
